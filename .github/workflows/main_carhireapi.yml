@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'CarHireApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_50C1E09C338A459A94AF133CAB73F12A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F1D13618B704B58A59337DB976847A3 }}
           package: .
