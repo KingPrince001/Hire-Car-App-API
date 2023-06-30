@@ -1,7 +1,7 @@
 {
   "name": "CarHireAPI",
   "version": "1.0.0",
-  "description": "Clients and admins can query anything from the DB",
+  "description": "CAR HIRE API",
   "main": "server.js",
   "author": "King Prince",
   "license": "MIT",
