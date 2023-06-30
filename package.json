@@ -10,7 +10,7 @@
     "node": ">=18.16.0"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
    
   },
   "dependencies": {
